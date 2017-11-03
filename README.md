@@ -2,7 +2,7 @@
 ## Requirments
 Program we are trying to develope will do the following:    
 
-1.Download all java files from GitHub to your computer based on listed GitHub accounts. The list can be obtained from the TEST_FILES.
+1. Download all java files from GitHub to your computer based on listed GitHub accounts. The list can be obtained from the TEST_FILES.
 2. The folder name or location to be downloaded to your computer will be specified (input) by the user.
 3.
 4.
