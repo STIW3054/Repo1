@@ -10,7 +10,7 @@ Program we are trying to develope will do the following:
 6. If	there	are	errors	occur	during	the	compiling	activities,	all	the	errors	must	be	stored	in	error	files.	
 7. Then	the	system	will	run	all	successful compiled	files. All	the	results must be stored in output files.
 8. Finally,	the	system	should	be	able	to	produce	the	following	reports:	
-    -compilation	of	all	output	files	in	ONE	(1)	pdf	file.	
-    -compilation	of	all	error	files	in	ONE	(1)	pdf	file.	
-    -compilation	of	all	log	files	in	ONE	(1)	pdf	file.	
-    -ONE	(1)	MS	Excel	file.	(Refer	to	assignment#2	for	the	content	of	the	excel	file.	
+    a)compilation	of	all	output	files	in	ONE	(1)	pdf	file.	
+    b)compilation	of	all	error	files	in	ONE	(1)	pdf	file.	
+    c)compilation	of	all	log	files	in	ONE	(1)	pdf	file.	
+    d)ONE	(1)	MS	Excel	file.	(Refer	to	assignment#2	for	the	content	of	the	excel	file.	
