@@ -8,7 +8,8 @@ Program we are trying to develope will do the following:
 4.
 5.After all the files have been downloaded to your computer, the system will immediately compile all java files in a specific folder.
 6.
-7.
+7.. Then	the	system	will	run	all	successful compiled	files. All	the	results must	be	
+stored	in	output	files.
 8.
     -
     -
