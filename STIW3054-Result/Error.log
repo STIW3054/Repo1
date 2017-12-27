@@ -1,0 +1,148 @@
+javac: file not found: testwaitnotify\TestWaitNotify.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+CountThread123.java:2: error: package week2 does not exist
+Issue9.java:3: error: package org.knowm.xchart does not exist
+javac: file not found: assignment1\Asg1_237768.java
+javac: file not found: testwaitnotify\MyThread.java
+javac: file not found: assignment1\CountIssues.java
+javac: file not found: week2\CountThread.java
+javac: file not found: helloworld\HelloWorld.java
+Note: .\assignmentone\CountFiles.java uses unchecked or unsafe operations.
+Note: assignment1\Scan.java uses unchecked or unsafe operations.
+com\stiw3054\issue11\Issue11.java:30: error: non-static variable filter cannot be referenced from a static context
+javac: file not found: twothreads\TwoThreads.java
+javac: file not found: assignment1\CountJavaFile.java
+Note: Count.java uses unchecked or unsafe operations.
+import week2.CountThread;
+import org.knowm.xchart.QuickChart;
+Note: Recompile with -Xlint:unchecked for details.
+Usage: javac <options> <source files>
+Usage: javac <options> <source files>
+        String[] children = dir.list(filter);
+Usage: javac <options> <source files>
+Note: Recompile with -Xlint:unchecked for details.
+Usage: javac <options> <source files>
+Usage: javac <options> <source files>
+                                     ^
+use -help for a list of possible options
+use -help for a list of possible options
+Note: Recompile with -Xlint:unchecked for details.
+Usage: javac <options> <source files>
+Usage: javac <options> <source files>
+                       ^
+use -help for a list of possible options
+1 error
+Issue9.java:4: error: package org.knowm.xchart does not exist
+use -help for a list of possible options
+use -help for a list of possible options
+use -help for a list of possible options
+use -help for a list of possible options
+import org.knowm.xchart.SwingWrapper;
+            ^
+1 error
+                       ^
+Issue9.java:5: error: package org.knowm.xchart does not exist
+import org.knowm.xchart.XYChart;
+                       ^
+Issue9.java:12: error: package org.knowm.xchart does not exist
+        final org.knowm.xchart.XYChart genChart = QuickChart.getChart("STIW3054  Display Random Numbers", "Counter", "Number", "add", xyAxis[0], xyAxis[1]);
+                              ^
+Issue9.java:12: error: cannot find symbol
+        final org.knowm.xchart.XYChart genChart = QuickChart.getChart("STIW3054  Display Random Numbers", "Counter", "Number", "add", xyAxis[0], xyAxis[1]);
+                                                  ^
+  symbol:   variable QuickChart
+  location: class Issue9
+Issue9.java:19: error: cannot find symbol
+        final SwingWrapper<XYChart> sWrapper = new SwingWrapper<XYChart>(genChart);
+              ^
+  symbol:   class SwingWrapper
+  location: class Issue9
+Issue9.java:19: error: cannot find symbol
+        final SwingWrapper<XYChart> sWrapper = new SwingWrapper<XYChart>(genChart);
+                           ^
+  symbol:   class XYChart
+  location: class Issue9
+Issue9.java:19: error: cannot find symbol
+        final SwingWrapper<XYChart> sWrapper = new SwingWrapper<XYChart>(genChart);
+                                                   ^
+  symbol:   class SwingWrapper
+  location: class Issue9
+Issue9.java:19: error: cannot find symbol
+        final SwingWrapper<XYChart> sWrapper = new SwingWrapper<XYChart>(genChart);
+                                                                ^
+  symbol:   class XYChart
+  location: class Issue9
+9 errors
+javac: file not found: javaapplication3\JavaApplication3.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+javac: file not found: countthread\MyThread.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+javac: file not found: rttwothread\RTtwothread.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+javac: file not found: cloneRepo\testJGit.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+javac: file not found: rtcountthread\RTcountThread.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+com\uum\hello\TestHelloWorld.java:8: error: cannot find symbol
+import com.uum.HelloWorld;
+              ^
+  symbol:   class HelloWorld
+  location: package com.uum
+com\uum\hello\TestHelloWorld.java:9: error: package org.junit does not exist
+import org.junit.Assert;
+                ^
+Week07_03\DetermineUserGitRepo.java:18: error: package org.kohsuke.github does not exist
+com\uum\hello\TestHelloWorld.java:10: error: package org.junit does not exist
+Week07_05\DetermineUserGitIssues.java:19: error: package org.kohsuke.github does not exist
+Week07_06\DetermineIssueContributions.java:34: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GHIssue;
+import org.kohsuke.github.GHRepository;
+import org.kohsuke.github.GHIssue;
+                         ^
+                         ^
+Week07_03\DetermineUserGitRepo.java:19: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GHUser;
+                         ^
+Week07_03\DetermineUserGitRepo.java:20: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GitHub;
+                         ^
+Week07_03\DetermineUserGitRepo.java:28: error: cannot find symbol
+        GitHub github = GitHub.connectAnonymously();
+        ^
+  symbol:   class GitHub
+Week07_04\DetermineRepoContents.java:20: error: package org.kohsuke.github does not exist
+  location: class DetermineUserGitRepo
+Week07_06\DetermineIssueContributions.java:35: error: package org.kohsuke.github does not exist
+                         ^
+import org.junit.Test;
+import org.kohsuke.github.GHContent;
+                         ^
+Week07_04\DetermineRepoContents.java:21: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GHRepository;
+Week06_01\LineChart.java:16: error: package org.knowm.xchart does not exist
+                         ^
+                ^
+import org.knowm.xchart.QuickChart;
+                       ^
+Week06_01\LineChart.java:17: error: package org.knowm.xchart does not exist
+import org.knowm.xchart.SwingWrapper;
+                       ^
+Week07_05\DetermineUserGitIssues.java:20: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GHIssueComment;
+Week07_03\DetermineUserGitRepo.java:28: error: cannot find symbol
+Week07_04\DetermineRepoContents.java:22: error: package org.kohsuke.github does not exist
+Week06_01\LineChart.java:18: error: package org.knowm.xchart does not exist
+import org.kohsuke.github.GHUser;
+com\uum\hello\TestHelloWorld.java:18: error: cannot find symbol
+        GitHub github = GitHub.connectAnonymously();
+                         ^
+                         ^
+Week07_04\DetermineRepoContents.java:23: error: package org.kohsuke.github does not exist
+import org.kohsuke.github.GitHub;
+                         ^
